@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-=======
-# Login
-Registrazione e Login utente
 
->>>>>>> ca4680dc227b1e1ed309bc23e48a209e3d974286
-# spring-boot-registration-login
+Registrazione e Login utente
 
 Per questa web app ho utilizzato spring boot versione 3.0.2 come framework e tutte le sue librerie.
 In particolare ho importato:
