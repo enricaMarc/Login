@@ -1,6 +1,5 @@
 Registrazione e Login utente
 
-
 Per questa web app ho utilizzato spring boot versione 3.0.2 come framework e tutte le sue librerie.
 In particolare ho importato:
 la dipendenza per spring-boot-starter-data-jpa per la persistenza dei dati sul db relazionale
